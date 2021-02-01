@@ -2,7 +2,6 @@
 
 E-mail: eugenegronski@gmail.com
 Phone: 693013046
-City: Warszawa
 [GitHub](github.com/eugeniuszG)
 
 
